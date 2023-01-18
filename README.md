@@ -1,3 +1,5 @@
+New modifications 1
+
 # Simple-Java-Chat-Web-Application-using-JSP-and-Servlets
 Java Chat Web Application using JSP and Servlet
 
